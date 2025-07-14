@@ -1,0 +1,42 @@
+{
+  "name": "content-genie-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "lint": "eslint . --ext .js",
+    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [
+    "Google-Generative-AI/GeminiAI",
+    "Search",
+    "Content",
+    "Mongoose",
+    "Nodejs",
+    "Expressjs",
+    "JsonWebToken",
+    "Cookie-Parser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.5.0",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.0",
+    "stripe": "^14.24.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.31.0",
+    "nodemon": "^3.1.10"
+  }
+}
