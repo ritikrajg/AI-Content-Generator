@@ -31,7 +31,7 @@ Welcome to Content Genie Hub, a dynamic platform designed to transform your cont
 Project Setup Locally in VSCode Terminal
 
 ```
-  git clone https://github.com/jameel-webdev/AI-Content-Generator-frontend
+  git clone https://github.com/ritikrajg/AI-Content-Generator-frontend
   cd .\AI-Content-Generator-frontend\
   npm install
 ```
@@ -39,7 +39,7 @@ Project Setup Locally in VSCode Terminal
 Project Setup Locally in VSCode Terminal
 
 ```
-  git clone https://github.com/jameel-webdev/AI-Content-Generator-backend
+  git clone https://github.com/ritikrajg/AI-Content-Generator-backend
   cd .\AI-Content-Generator-backend\
   npm install
 ```
@@ -128,7 +128,7 @@ Backend:
 ## Demo Video
 
 
-[![Watch the video](https://github.com/jameel-webdev/AI-Content-Generator-frontend/assets/126319130/2117f43d-5c43-4b5a-8b63-ea0e6ebd191e)](https://drive.google.com/file/d/1_fsF-dQeCqb9P70mrBJTGDE40x_DqF4G/view?usp=sharing)
+[![Watch the video](https://github.com/ritikrajg/AI-Content-Generator-frontend/assets/126319130/2117f43d-5c43-4b5a-8b63-ea0e6ebd191e)](https://drive.google.com/file/d/1_fsF-dQeCqb9P70mrBJTGDE40x_DqF4G/view?usp=sharing)
 
 
 
